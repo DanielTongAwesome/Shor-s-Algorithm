@@ -6,7 +6,7 @@
  * @Description: 
  * @FilePath: /Quantum_Computing/README.md
 -->
-# Quantum Computing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Shor's Algorithm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A repo to record my quantum computing learning
 
 Welcome! In this repo, I will update some demo code for performing quantum computing.
